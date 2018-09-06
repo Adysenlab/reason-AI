@@ -1,5 +1,5 @@
-Bayonet: a C++ library for Bayesian networks
-============================================
+AI - Net: a C++ library for Bayesian networks
+=============================================
 
 Bayesian networks are probabilistic graphical models, a set of random variables (called nodes) connected through directed edges. Each edge of the network represents a causal relation between two nodes. 
 
